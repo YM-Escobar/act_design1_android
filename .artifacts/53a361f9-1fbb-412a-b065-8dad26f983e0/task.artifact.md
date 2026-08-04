@@ -1,0 +1,6 @@
+- [x] Update `build.gradle.kts` to use API 35
+- [x] Fix `header.kt`: Remove `fillMaxHeight()` from Spacer
+- [x] Fix `actions.kt`: Remove `fillMaxHeight()` from Spacer
+- [x] Fix `image_people.kt`: Move Spacer outside Box and remove `fillMaxWidth()`
+- [x] Fix `information.kt`: Remove `fillMaxWidth()` from Spacer
+- [ ] Verify fix with `render_compose_preview`
